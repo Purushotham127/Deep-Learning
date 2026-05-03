@@ -217,4 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-.Animal_Classification_CNN/dataset/
+# Dataset folder
+Animal_Classification_CNN/dataset/
